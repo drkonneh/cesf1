@@ -1,3 +1,33 @@
 body {
-  background-color: red;
+    font: 400 24px Lato, sans-serif;
+    line-height: 1.8;
+    background-color: #f8ceec;
+    background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+    color: #FAEBD7;
+    background: #107Dc1;
+    height: 100vh;
+    text-align: left;
+    position: relative;
+    margin: auto;
+}
+div {
+    width: 175px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 125px;
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 2em;
+}
+.Shahad{
+  position: relative;
+  font-family: 'Lato', sans-serif;
+font-weight: 900;
+font-size: 2.5em;
+color: #FFEA00;
+display: inline;
 }
